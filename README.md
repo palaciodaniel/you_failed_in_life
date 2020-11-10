@@ -3,7 +3,7 @@ A small game written as a Bash script, which means that you can directly play it
 
 It was done for demonstrative purposes, to showcase my current knowledge of Bash scripting. 
 
-You can check the gameplay [here](https://youtu.be/V3dUqM3gDJ0).
+You can check the gameplay [here](https://youtu.be/V3dUqM3gDJ0) --choose the HD option if it is not enabled by default.
 
 <p align="center"> 
 <img src="https://images.unsplash.com/photo-1473682150760-51d4f94b09d4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80">
@@ -19,7 +19,7 @@ Once you are ready, simply download the zip file into any directory you would li
 
 Finally, open right there the Terminal (Ctrl + Alt + T) and write "bash failedlife.sh".
 
-You can see all these steps performed on the [following video](https://youtu.be/ftwBfTqb9k8).
+You can see all these steps performed on the [following video](https://youtu.be/ftwBfTqb9k8) --choose the HD option if it is not enabled by default.
 
 ## Credits
 Code written from scratch by **Daniel Palacio**.
