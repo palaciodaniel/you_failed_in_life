@@ -19,7 +19,7 @@ Once you are ready, simply download the zip file into any directory you would li
 
 Finally, open right there the Terminal (Ctrl + Alt + T) and write "bash failedlife.sh".
 
-You can see all these steps performed on the [following video](https://youtu.be/ftwBfTqb9k8) --choose the HD option if it is not enabled by default.
+You can see all these steps performed on the [following video](https://youtu.be/83cLVp8BcF4) --choose the HD option if it is not enabled by default.
 
 ## Credits
 Code written from scratch by **Daniel Palacio**.
